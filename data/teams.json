@@ -1,6 +1,7 @@
 [
   {
     "teamId": 1610612737,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/1200px-Atlanta_Hawks_logo.svg.png",
     "abbreviation": "ATL",
     "teamName": "Atlanta Hawks",
     "simpleName": "Hawks",
@@ -8,6 +9,7 @@
   },
   {
     "teamId": 1610612738,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/200px-Boston_Celtics.svg.png",
     "abbreviation": "BOS",
     "teamName": "Boston Celtics",
     "simpleName": "Celtics",
@@ -15,6 +17,7 @@
   },
   {
     "teamId": 1610612751,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/1200px-Brooklyn_Nets_newlogo.svg.png",
     "abbreviation": "BKN",
     "teamName": "Brooklyn Nets",
     "simpleName": "Nets",
@@ -22,6 +25,7 @@
   },
   {
     "teamId": 1610612766,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png",
     "abbreviation": "CHA",
     "teamName": "Charlotte Hornets",
     "simpleName": "Hornets",
@@ -29,6 +33,7 @@
   },
   {
     "teamId": 1610612741,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Chicago_Bulls_logo.svg/1200px-Chicago_Bulls_logo.svg.png",
     "abbreviation": "CHI",
     "teamName": "Chicago Bulls",
     "simpleName": "Bulls",
@@ -36,6 +41,7 @@
   },
   {
     "teamId": 1610612739,
+    "logo": "https://lh3.googleusercontent.com/proxy/YpUSgT4Huc1h7LGllkWGQiy-E_UYvqgu8cWqYEl5QUYUq4lHt2_dF6Lt67pBgwdoH9whQ8WfCBpNeKkmUqbfzbOVQYDFL6NhcK_aLVTmvSFU2s92uWeTe7AKssxOjs5rJTY",
     "abbreviation": "CLE",
     "teamName": "Cleveland Cavaliers",
     "simpleName": "Cavaliers",
@@ -43,6 +49,7 @@
   },
   {
     "teamId": 1610612742,
+    "logo": "https://upload.wikimedia.org/wikipedia/bs/thumb/d/da/Dallas_Mavericks.svg/1200px-Dallas_Mavericks.svg.png",
     "abbreviation": "DAL",
     "teamName": "Dallas Mavericks",
     "simpleName": "Mavericks",
@@ -50,6 +57,7 @@
   },
   {
     "teamId": 1610612743,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Denver_Nuggets.svg/1200px-Denver_Nuggets.svg.png",
     "abbreviation": "DEN",
     "teamName": "Denver Nuggets",
     "simpleName": "Nuggets",
@@ -57,6 +65,7 @@
   },
   {
     "teamId": 1610612765,
+    "logo": "https://sportslogohistory.com/wp-content/uploads/2017/05/detroit_pistons_2017-pres.png",
     "abbreviation": "DET",
     "teamName": "Detroit Pistons",
     "simpleName": "Pistons",
@@ -64,6 +73,7 @@
   },
   {
     "teamId": 1610612744,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png",
     "abbreviation": "GSW",
     "teamName": "Golden State Warriors",
     "simpleName": "Warriors",
@@ -71,6 +81,7 @@
   },
   {
     "teamId": 1610612745,
+    "logo": "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnba%2F500%2Fhou.png",
     "abbreviation": "HOU",
     "teamName": "Houston Rockets",
     "simpleName": "Rockets",
@@ -78,6 +89,7 @@
   },
   {
     "teamId": 1610612754,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Indiana_Pacers.svg/1200px-Indiana_Pacers.svg.png",
     "abbreviation": "IND",
     "teamName": "Indiana Pacers",
     "simpleName": "Pacers",
@@ -85,6 +97,7 @@
   },
   {
     "teamId": 1610612746,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Los_Angeles_Clippers_%282015%29.svg/1200px-Los_Angeles_Clippers_%282015%29.svg.png",
     "abbreviation": "LAC",
     "teamName": "Los Angeles Clippers",
     "simpleName": "Clippers",
@@ -92,6 +105,7 @@
   },
   {
     "teamId": 1610612747,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png",
     "abbreviation": "LAL",
     "teamName": "Los Angeles Lakers",
     "simpleName": "Lakers",
@@ -99,6 +113,7 @@
   },
   {
     "teamId": 1610612763,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png",
     "abbreviation": "MEM",
     "teamName": "Memphis Grizzlies",
     "simpleName": "Grizzlies",
@@ -106,6 +121,7 @@
   },
   {
     "teamId": 1610612748,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Miami_Heat_logo.svg/1200px-Miami_Heat_logo.svg.png",
     "abbreviation": "MIA",
     "teamName": "Miami Heat",
     "simpleName": "Heat",
@@ -113,6 +129,7 @@
   },
   {
     "teamId": 1610612749,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Milwaukee_Bucks_logo.svg/1200px-Milwaukee_Bucks_logo.svg.png",
     "abbreviation": "MIL",
     "teamName": "Milwaukee Bucks",
     "simpleName": "Bucks",
@@ -120,6 +137,7 @@
   },
   {
     "teamId": 1610612750,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/1200px-Minnesota_Timberwolves_logo.svg.png",
     "abbreviation": "MIN",
     "teamName": "Minnesota Timberwolves",
     "simpleName": "Timberwolves",
@@ -127,6 +145,7 @@
   },
   {
     "teamId": 1610612740,
+    "logo": "https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/nop.png",
     "abbreviation": "NOP",
     "teamName": "New Orleans Pelicans",
     "simpleName": "Pelicans",
@@ -134,6 +153,7 @@
   },
   {
     "teamId": 1610612752,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Knicks_logo.svg/1200px-New_York_Knicks_logo.svg.png",
     "abbreviation": "NYK",
     "teamName": "New York Knicks",
     "simpleName": "Knicks",
@@ -141,6 +161,7 @@
   },
   {
     "teamId": 1610612760,
+    "logo": "https://upload.wikimedia.org/wikipedia/hr/2/2e/Oklahoma_City_Thunder.gif",
     "abbreviation": "OKC",
     "teamName": "Oklahoma City Thunder",
     "simpleName": "Thunder",
@@ -148,6 +169,7 @@
   },
   {
     "teamId": 1610612753,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Orlando_Magic_logo.svg/1200px-Orlando_Magic_logo.svg.png",
     "abbreviation": "ORL",
     "teamName": "Orlando Magic",
     "simpleName": "Magic",
@@ -155,6 +177,7 @@
   },
   {
     "teamId": 1610612755,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Philadelphia_76ers_logo.svg/1200px-Philadelphia_76ers_logo.svg.png",
     "abbreviation": "PHI",
     "teamName": "Philadelphia 76ers",
     "simpleName": "76ers",
@@ -162,6 +185,7 @@
   },
   {
     "teamId": 1610612756,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Phoenix_Suns_logo.svg/1200px-Phoenix_Suns_logo.svg.png",
     "abbreviation": "PHX",
     "teamName": "Phoenix Suns",
     "simpleName": "Suns",
@@ -169,6 +193,7 @@
   },
   {
     "teamId": 1610612757,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Portland_Trail_Blazers_logo.svg/1200px-Portland_Trail_Blazers_logo.svg.png",
     "abbreviation": "POR",
     "teamName": "Portland Trail Blazers",
     "simpleName": "Trail Blazers",
@@ -176,6 +201,7 @@
   },
   {
     "teamId": 1610612758,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/SacramentoKings.svg/1200px-SacramentoKings.svg.png",
     "abbreviation": "SAC",
     "teamName": "Sacramento Kings",
     "simpleName": "Kings",
@@ -183,6 +209,7 @@
   },
   {
     "teamId": 1610612759,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/San_Antonio_Spurs.svg/1200px-San_Antonio_Spurs.svg.png",
     "abbreviation": "SAS",
     "teamName": "San Antonio Spurs",
     "simpleName": "Spurs",
@@ -190,6 +217,7 @@
   },
   {
     "teamId": 1610612761,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/1200px-Toronto_Raptors_logo.svg.png",
     "abbreviation": "TOR",
     "teamName": "Toronto Raptors",
     "simpleName": "Raptors",
@@ -197,6 +225,7 @@
   },
   {
     "teamId": 1610612762,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utah_Jazz_logo_%282016%29.svg/1200px-Utah_Jazz_logo_%282016%29.svg.png",
     "abbreviation": "UTA",
     "teamName": "Utah Jazz",
     "simpleName": "Jazz",
@@ -204,6 +233,7 @@
   },
   {
     "teamId": 1610612764,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/1200px-Washington_Wizards_logo.svg.png",
     "abbreviation": "WAS",
     "teamName": "Washington Wizards",
     "simpleName": "Wizards",
